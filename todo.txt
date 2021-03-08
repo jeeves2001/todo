@@ -20,3 +20,4 @@ Sort out Garmin podcast server @computer
 set up Google Analytics for new Github site +blog @computer
 Do menu for the week +personal
 Work on https://github.com/jeeves2001/Projects-Public/issues/12 +job
+Download the How I Like To Be Managed doc from work @computer
