@@ -7,3 +7,8 @@ x 2021-03-06 <<<<<<< HEAD
 x 2021-03-06 =======
 x 2021-03-06 >>>>>>> 564d912f4aaeb17c99054ec7388c08cae17a3544
 x 2021-03-06 Testing Git
+x 2021-03-08 CS Job Application +job @computer
+x 2021-03-08 Move house move stuff to Git Project
+x 2021-03-08 Move job application stuff to Git Project
+x 2021-03-08 Set up Github blog with Jekyll Now @computer
+x 2021-03-08 Post birthday card to P +personal
