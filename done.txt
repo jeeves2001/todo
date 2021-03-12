@@ -14,3 +14,7 @@ x 2021-03-08 Set up Github blog with Jekyll Now @computer
 x 2021-03-08 Post birthday card to P +personal
 x 2021-03-10 Call boiler guy
 x 2021-03-10 Cancel oddbox
+x 2021-03-11 Review JD https://github.com/jeeves2001/Projects-Public/issues/9 @computer +job
+x 2021-03-11 Submit CV to CS https://github.com/jeeves2001/Projects-Public/issues/17 +job
+x 2021-03-11 Do menu for the week +personal
+x 2021-03-11 Charge batteries for scales
