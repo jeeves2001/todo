@@ -18,3 +18,20 @@ x 2021-03-11 Review JD https://github.com/jeeves2001/Projects-Public/issues/9 @c
 x 2021-03-11 Submit CV to CS https://github.com/jeeves2001/Projects-Public/issues/17 +job
 x 2021-03-11 Do menu for the week +personal
 x 2021-03-11 Charge batteries for scales
+x 2021-03-12 pause Vitel subscription
+x 2021-03-12 buy flowers for P for mothersday +personal
+x 2021-03-15 Submit PM role profile for AC +job @computer
+x 2021-03-15 send mothersday card to P +personal
+x 2021-03-15 buy flowers for F for mothersday +personal
+x 2021-03-22 NT Job Application +job @computer
+x 2021-03-22 Add page to +blog with offer codes etc +personal
+x 2021-03-22 Remember to cancel Gym Membership in May +personal
+x 2021-03-22 Do D+G application https://domesticandgeneral.current-vacancies.com/Jobs/Advert/2131384 +job
+x 2021-03-22 Submit IPM profile for AC +job @computer
+x 2021-03-22 Review LHH Portal https://github.com/jeeves2001/Projects-Public/issues/8 +job @computer
+x 2021-03-22 Get / make mothersday card for F +personal
+x 2021-03-22 Set up Curve on watch @computer
+x 2021-03-22 Set up Google Assistant heating controls +blog @computer
+x 2021-03-22 Setup Spotify on Garmin +personal @computer
+x 2021-03-22 Setup Spotify on Phone +personal @computer
+x 2021-03-22 Setup Spotify on Google Home +personal @computer
