@@ -1,4 +1,4 @@
-Setup Dropbox Sync for Todo.txt @computer
+x 2021-03-29 Setup Dropbox Sync for Todo.txt @computer
 Set up Google Action for adding to todo.txt @computer +blog
 Tidy cloud storage @computer +blog +personal
 Tidy local storage @computer +blog +personal
@@ -10,7 +10,7 @@ Google Assistant action to append line to Dropbox file adding to todo.txt @compu
 Sort out Garmin podcast server @computer
 set up Google Analytics for new Github site +blog @computer
 (Z) Work on https://github.com/jeeves2001/Projects-Public/issues/12 +job
-(C) Download the How I Like To Be Managed doc from work @computer
+x 2021-03-29 Download the How I Like To Be Managed doc from work @computer pri:C
 Go through my work OneDrive and clear it out @computer
 (A) Cancel Youtube Music +personal @computer
 (D) Add page to +blog with offer codes etc +personal
