@@ -35,3 +35,5 @@ x 2021-03-22 Set up Google Assistant heating controls +blog @computer
 x 2021-03-22 Setup Spotify on Garmin +personal @computer
 x 2021-03-22 Setup Spotify on Phone +personal @computer
 x 2021-03-22 Setup Spotify on Google Home +personal @computer
+x 2021-03-29 Setup Dropbox Sync for Todo.txt @computer
+x 2021-03-29 Download the How I Like To Be Managed doc from work @computer pri:C
