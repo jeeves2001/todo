@@ -16,3 +16,12 @@ Remember to cancel Gym Membership in May +personal
 2021-03-31 Create Twitter list of rich roll podcast guests @computer +personal
 Fill in ETEL Insurance paperwork
 Return ETEL Insucance paperwork
+(A) 2021-04-09 Rebuild DockerPi with Compose +personal @computer
+(A) 2021-04-09 Email Bridges about dishwasher & measurements +personal +house
+2021-04-09 Card for P&P +personal +quicktask
+2021-04-09 Look up drycleaners & fix jacket +personal +quicktask
+2021-04-09 Order blazer +personal +job +quicktask
+(A) 2021-04-09 Order Vivos +personal @computer
+2021-04-09 New belt +personal +quicktask
+2021-04-09 Running socks +quicktask +personal +shopping
+2021-04-09 Talk to dad about spec for the new house +personal +house +quicktask
