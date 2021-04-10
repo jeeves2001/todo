@@ -25,3 +25,5 @@ Return ETEL Insucance paperwork
 2021-04-09 New belt +personal +quicktask
 2021-04-09 Running socks +quicktask +personal +shopping
 2021-04-09 Talk to dad about spec for the new house +personal +house +quicktask
+2021-04-09 Clean work shoes +quicktask +personal
+2021-04-09 Fix breaks on ivy's bike +personal @home +quicktask
