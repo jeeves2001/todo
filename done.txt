@@ -37,3 +37,10 @@ x 2021-03-22 Setup Spotify on Phone +personal @computer
 x 2021-03-22 Setup Spotify on Google Home +personal @computer
 x 2021-03-29 Setup Dropbox Sync for Todo.txt @computer
 x 2021-03-29 Download the How I Like To Be Managed doc from work @computer pri:C
+x 2021-04-13 2021-04-10 Backup Nodered flows to Dropbox as txt files @computer +personal +quicktask
+x 2021-04-13 2021-04-09 New belt +personal +quicktask
+x 2021-04-13 2021-04-09 Order blazer +personal +job +quicktask
+x 2021-04-13 2021-04-12 Contact bridges and discuss timescales for tenancy agreement +house @computer +quicktask
+x 2021-04-13 2021-04-09 Email Bridges about dishwasher & measurements +personal +house
+x 2021-04-13 2021-04-09 Rebuild DockerPi with Compose +personal @computer
+x 2021-04-13 2021-04-12 Chase solicitor for dates @computer +house +quicktask

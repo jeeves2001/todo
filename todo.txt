@@ -16,18 +16,13 @@ Remember to cancel Gym Membership in May +personal
 2021-03-31 Create Twitter list of rich roll podcast guests @computer +personal
 Fill in ETEL Insurance paperwork
 Return ETEL Insucance paperwork
-(A) 2021-04-09 Rebuild DockerPi with Compose +personal @computer
-(A) 2021-04-09 Email Bridges about dishwasher & measurements +personal +house
 2021-04-09 Card for P&P +personal +quicktask
 2021-04-09 Look up drycleaners & fix jacket +personal +quicktask
-2021-04-09 Order blazer +personal +job +quicktask
 (A) 2021-04-09 Order Vivos +personal @computer
-2021-04-09 New belt +personal +quicktask
 2021-04-09 Running socks +quicktask +personal +shopping
 2021-04-09 Talk to dad about spec for the new house +personal +house +quicktask
 2021-04-09 Clean work shoes +quicktask +personal
 2021-04-09 Fix breaks on ivy's bike +personal @home +quicktask
-2021-04-10 Backup Nodered flows to Dropbox as txt files @computer +personal +quicktask
-2021-04-12 Chase solicitor for dates @computer +house +quicktask
-2021-04-12 Contact bridges and discuss timescales for tenancy agreement +house @computer +quicktask
 2021-04-12 Reply to Countrywide! @computer +house +quicktask
+Migrate to Docker Compose https://github.com/jeeves2001/Projects-Public/issues/20
+Write up DockerPi post https://github.com/jeeves2001/jeeves2001.github.io/blob/master/_drafts/DockerPi.md +blog +personal
