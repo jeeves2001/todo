@@ -27,3 +27,7 @@ Return ETEL Insucance paperwork
 2021-04-09 Talk to dad about spec for the new house +personal +house +quicktask
 2021-04-09 Clean work shoes +quicktask +personal
 2021-04-09 Fix breaks on ivy's bike +personal @home +quicktask
+2021-04-10 Backup Nodered flows to Dropbox as txt files @computer +personal +quicktask
+2021-04-12 Chase solicitor for dates @computer +house +quicktask
+2021-04-12 Contact bridges and discuss timescales for tenancy agreement +house @computer +quicktask
+2021-04-12 Reply to Countrywide! @computer +house +quicktask
