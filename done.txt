@@ -44,3 +44,8 @@ x 2021-04-13 2021-04-12 Contact bridges and discuss timescales for tenancy agree
 x 2021-04-13 2021-04-09 Email Bridges about dishwasher & measurements +personal +house
 x 2021-04-13 2021-04-09 Rebuild DockerPi with Compose +personal @computer
 x 2021-04-13 2021-04-12 Chase solicitor for dates @computer +house +quicktask
+x 2021-04-13 2021-03-31 Create Twitter list of rich roll podcast guests @computer +personal
+x 2021-04-13 2021-04-09 Clean work shoes +quicktask +personal
+x 2021-04-13 Can you get a weekly summary of usage from Googles Digital Wellbeing +blog
+x 2021-04-13 Go through my work OneDrive and clear it out @computer
+x 2021-04-13 Google Assistant action to append line to Dropbox file adding to todo.txt @computer
