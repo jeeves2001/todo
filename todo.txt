@@ -1,23 +1,25 @@
-(B) Set up Google Action for adding to todo.txt @computer +blog
-(Z) Tidy cloud storage @computer +blog +personal
-(Z) Tidy local storage @computer +blog +personal
 (D) Digital Minimalism The Desktop +blog
 (D) Digital Minimalism The Phone +blog
 (D) Digital Minimalism The Cloud Storage +blog
-(Z) Sort out Garmin podcast server @computer
-(E) set up Google Analytics for new Github site +blog @computer
 (Z) Work on https://github.com/jeeves2001/Projects-Public/issues/12 +job
 (A) Cancel Youtube Music +personal @computer
 (D) Add page to +blog with offer codes etc +personal
+(A) 2021-04-09 Order Vivos +personal @computer
+(B) Set up Google Action for adding to todo.txt @computer +blog
+(Z) Tidy cloud storage @computer +blog +personal
+(Z) Tidy local storage @computer +blog +personal
+(Z) Sort out Garmin podcast server @computer
+(E) set up Google Analytics for new Github site +blog @computer
 (C) Remember to cancel Gym Membership in May +personal
 (A) Return JOB Insurance paperwork
 (A) Fill in JOB Insurance paperwork
 (C) 2021-04-09 Card for P&P +personal +quicktask
 (C) 2021-04-09 Look up drycleaners & fix jacket +personal +quicktask
-(A) 2021-04-09 Order Vivos +personal @computer
 (D) 2021-04-09 Running socks +quicktask +personal +shopping
 (E) 2021-04-09 Talk to dad about spec for the new house +personal +house +quicktask
 (A) 2021-04-09 Fix breaks on DAUGHTERS bike +personal @home
 (B) 2021-04-12 Reply to Countrywide! @computer +house +quicktask
 (B) Migrate to Docker Compose https://github.com/jeeves2001/Projects-Public/issues/20
 (D) Write up DockerPi post https://github.com/jeeves2001/jeeves2001.github.io/blob/master/_drafts/DockerPi.md +blog +personal
+(a) Fill in leasing forms +house +personal @computer
+(a) Reply to solicitors RE: Driveway +house +personal
