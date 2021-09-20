@@ -49,3 +49,30 @@ x 2021-04-13 2021-04-09 Clean work shoes +quicktask +personal
 x 2021-04-13 Can you get a weekly summary of usage from Googles Digital Wellbeing +blog
 x 2021-04-13 Go through my work OneDrive and clear it out @computer
 x 2021-04-13 Google Assistant action to append line to Dropbox file adding to todo.txt @computer
+x 2021-04-15 return shoes
+x 2021-04-15 Reply to solicitors RE: Driveway +house +personal
+x 2021-09-20 2021-04-12 Reply to Countrywide! @computer +house +quicktask
+x 2021-09-20 Cancel Youtube Music +personal @computer
+x 2021-09-20 2021-04-09 Order Vivos +personal @computer Code LM20
+x 2021-09-20 Set up Google Action for adding to todo.txt @computer +blog
+x 2021-09-20 Remember to cancel Gym Membership in May +personal
+x 2021-09-20 2021-04-09 Card for P&P +personal +quicktask
+x 2021-09-20 2021-04-09 Look up drycleaners & fix jacket +personal +quicktask
+x 2021-09-20 2021-04-09 Fix breaks on DAUGHTERS bike +personal @home
+x 2021-09-20 Fill in lease paperwork https://github.com/jeeves2001/Projects-Public/issues/23 +house +personal @computer
+x 2021-09-20 Digital Minimalism The Desktop +blog
+x 2021-09-20 Digital Minimalism The Phone +blog
+x 2021-09-20 Digital Minimalism The Cloud Storage +blog
+x 2021-09-20 Add page to +blog with offer codes etc +personal
+x 2021-09-20 Tidy cloud storage @computer +blog +personal
+x 2021-09-20 Tidy local storage @computer +blog +personal
+x 2021-09-20 2021-04-09 Running socks +quicktask +personal +shopping
+x 2021-09-20 2021-04-09 Talk to dad about spec for the new house +personal +house +quicktask
+x 2021-09-20 Write up DockerPi post https://github.com/jeeves2001/jeeves2001.github.io/blob/master/_drafts/DockerPi.md +blog +personal
+x 2021-09-20 Update LinkedIn profile https://github.com/jeeves2001/Projects-Public/issues/12 +job
+x 2021-09-20 Sort out Garmin podcast server @computer
+x 2021-09-20 set up Google Analytics for new Github site +blog @computer
+x 2021-09-20 Return JOB Insurance paperwork
+x 2021-09-20 Fill in JOB Insurance paperwork
+x 2021-09-20 Migrate to Docker Compose https://github.com/jeeves2001/Projects-Public/issues/20
+x 2021-09-20 Chase freeholder for lease docs on Friday +house @personal
